@@ -1,7 +1,7 @@
 package org.example;
 
 public class Calculator {
-    float nr;
+     protected float nr;
     public Calculator(float nr){
         this.nr=nr;
     }
